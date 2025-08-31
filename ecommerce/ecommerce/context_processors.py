@@ -4,5 +4,5 @@ def site_settings(request):
         'SITE_NAME': 'E-Commerce Store',
         'SITE_DESCRIPTION': 'Your one-stop shop for everything',
         'COMPANY_EMAIL': 'contact@ecommerce.com',
-        'COMPANY_PHONE': '+1 (555) 123-4567',
+        'COMPANY_PHONE': '+254 720 000000',
     }
